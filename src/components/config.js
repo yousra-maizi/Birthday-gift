@@ -118,7 +118,7 @@ const config = {
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: " 🎉 Happy Birthday Adil🎉 Wishing you an amazing day filled with laughter, great memories, and the company of the people who appreciate you the most. You’re not just a great friend but also someone who inspires those around you with your kindness, loyalty, and positivity. May this year bring you success, happiness, and everything you’ve been working toward. I’m grateful for our friendship, and I look forward to many more awesome moments together.", // Message displayed on the love letter page
+  loveLetterMessage: " 🎉 Happy Birthday Adil🎉 Wishing you an amazing year filled with laughter, great memories, and the company of the people who appreciate you the most.May this year bring you success, happiness, and everything you’ve been working toward. I’m grateful for our friendship, and I look forward to many more awesome moments together.", // Message displayed on the love letter page
 
   // 🎇 Closing Page
   closingMessage: "Thank you for everything, Adil! 💖 Wishing us many more wonderful years together.", // Closing message displayed
