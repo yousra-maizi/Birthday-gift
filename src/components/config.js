@@ -85,8 +85,8 @@ const config = {
       top: "90%",
     },
     {
-      title: "The night we met",
-      artist: "Lord Huron",
+      title: "4ever",
+      artist: "Clairo",
       left: "35%",
       top: "50%",
     },
@@ -102,23 +102,23 @@ const config = {
     // 📝 Message Recap Page
     messageTitle: "20 things i like about you", // Title for the messages recap page
     messageGallery: [
-      { title: "September 3, 2024", description: "-❤️ Kind\n-❤️ Patient\n-❤️ Smart\n-❤️ Caring" }, // Message entry titles are desactivated
-      { title: "October 5, 2024", description: "-❤️ Cat Lover\n-❤️ Clingy side\n-❤️ Good listener\n-❤️ Funny" },
-      { title: "December 25, 2024", description: "-❤️ Silly\n-❤️ Serious\n-❤️ Sometimes shy\n-❤️ Brave" },
-      { title: "December 25, 2024", description: "-❤️ Handsome\n-❤️ Good looking\n-❤️ Clean\n-❤️ Act of service" }
+      { title: "September 3, 2024", description: "-❤️ Kind\n-❤️ Patient\n-❤️ Smart\n-❤️ Caring\n-❤️ Positive" }, // Message entry titles are desactivated
+      { title: "October 5, 2024", description: "-❤️ Cat Lover\n-❤️ Clingy side\n-❤️ Good listener\n-❤️ Funny\n-❤️ Emotionally intelligent" },
+      { title: "December 25, 2024", description: "-❤️ Silly\n-❤️ Serious\n-❤️ Sometimes shy\n-❤️ Brave\n-❤️ Cool" },
+      { title: "December 25, 2024", description: "-❤️ Handsome\n-❤️ Good looking\n-❤️ Loyal\n-❤️ Act of service\n -❤️ Kids Lover" }
     ],
   
     // 📸 Picture Recap Page
     pictureTitle: "Random Pictures", // Title for the pictures recap page
     pictureGallery: [
-      { title: "July 14, 2024", description: "Hehehe we were playing valorant :p ",style: "object-contain" }, // Picture entry
+      { title: "July 14, 2024", description: "Hehehe we were playing valorant i was a pro noob (i'm still a noob):p ",style: "object-contain" }, // Picture entry
       { title: "October 25, 2024", description: "Watching 'Summer stike' 💕", style: "object-contain"   },
-      { title: "January 19, 2025", description: "Winter sonata note (ps: ktebtha mea 01:23 hehehehe 9bel eliha hit every word fiha sincere)", style: "object-contain", height: "100%",width: "100%"  }
+      { title: "January 19, 2025", description: "Winter sonata note (ps: ktebtha mea 01:23 hehehehe 9bel eliha hit every word fiha sincere ofc)", style: "object-contain", height: "100%",width: "100%"  }
     ],
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: " Happy birthday dear ADIL, I hope you a great life full of success, happiness, luck, love and everything you want in this life 💖", // Message displayed on the love letter page
+  loveLetterMessage: " 🎉 Happy Birthday Adil🎉 Wishing you an amazing day filled with laughter, great memories, and the company of the people who appreciate you the most. You’re not just a great friend but also someone who inspires those around you with your kindness, loyalty, and positivity. May this year bring you success, happiness, and everything you’ve been working toward. I’m grateful for our friendship, and I look forward to many more awesome moments together.", // Message displayed on the love letter page
 
   // 🎇 Closing Page
   closingMessage: "Thank you for everything, Adil! 💖 Wishing us many more wonderful years together.", // Closing message displayed
